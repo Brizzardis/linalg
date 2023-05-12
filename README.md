@@ -1,1 +1,2 @@
-# linalg
+linalg
+GeekBrains course
